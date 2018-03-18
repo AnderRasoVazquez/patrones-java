@@ -25,7 +25,7 @@ Las contribuciones son bienvenidas y apreciadas.
 
 - [ ] Iterator
 - [x] Simple Factory
-- [ ] Singleton
+- [x] Singleton
 
 ## ¿Quieres contribuir?
 
