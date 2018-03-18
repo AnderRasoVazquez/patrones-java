@@ -23,7 +23,7 @@ Las contribuciones son bienvenidas y apreciadas.
 
 ### Generadores
 
-- [ ] Iterator
+- [x] Iterator
 - [x] Simple Factory
 - [x] Singleton
 
