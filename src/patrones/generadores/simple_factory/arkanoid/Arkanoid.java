@@ -1,4 +1,4 @@
-package patrones.generadores.simple_factory;
+package patrones.generadores.simple_factory.arkanoid;
 
 import java.util.Random;
 

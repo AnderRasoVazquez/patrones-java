@@ -1,4 +1,4 @@
-package patrones.estructurales.composite;
+package patrones.estructurales.composite.taller;
 
 import java.util.ArrayList;
 import java.util.Collection;

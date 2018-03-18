@@ -1,4 +1,4 @@
-package patrones.comportamiento.observer;
+package patrones.comportamiento.observer.estacion_meteorologica;
 
 /**
  * Esta no es una interfaz obligatoria para el patron observer,

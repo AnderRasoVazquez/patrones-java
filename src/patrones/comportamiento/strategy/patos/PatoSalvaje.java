@@ -1,4 +1,4 @@
-package patrones.comportamiento.strategy;
+package patrones.comportamiento.strategy.patos;
 
 public class PatoSalvaje extends Pato {
 

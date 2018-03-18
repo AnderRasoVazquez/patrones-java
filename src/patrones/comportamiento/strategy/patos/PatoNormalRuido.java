@@ -1,4 +1,4 @@
-package patrones.comportamiento.strategy;
+package patrones.comportamiento.strategy.patos;
 
 public class PatoNormalRuido implements IHacerRuido{
     @Override

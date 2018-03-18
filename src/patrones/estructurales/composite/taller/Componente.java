@@ -1,4 +1,4 @@
-package patrones.estructurales.composite;
+package patrones.estructurales.composite.taller;
 
 public interface Componente {
     public double calcularPrecio();

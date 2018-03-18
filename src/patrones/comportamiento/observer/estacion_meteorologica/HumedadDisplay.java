@@ -1,24 +1,24 @@
-package patrones.comportamiento.observer;
+package patrones.comportamiento.observer.estacion_meteorologica;
 
-public class TemperaturaDisplay implements IDisplay, IObserver {
+public class HumedadDisplay implements IDisplay, IObserver {
 
-    private double temp;
+    private double humedad;
     private IObservable estacion;
 
-    public TemperaturaDisplay(IObservable o) {
+    public HumedadDisplay(IObservable o) {
         this.estacion = o;
         this.estacion.addObserver(this);
     }
 
     @Override
     public void display() {
-        System.out.println("Temperatura Display: " + this.temp);
+        System.out.println("Humedad Display: " + this.humedad);
     }
 
     @Override
     public void update() {
         EstacionMetereologica s = (EstacionMetereologica) this.estacion;
-        this.temp = s.getTemp();
+        this.humedad = s.getHumedad();
         display();
     }
 }

@@ -1,4 +1,4 @@
-package patrones.comportamiento.observer;
+package patrones.comportamiento.observer.estacion_meteorologica;
 
 public class Main {
 
