@@ -17,7 +17,7 @@ Las contribuciones son bienvenidas y apreciadas.
 
 ### Estructurales
 
-- [ ] Adapter
+- [x] Adapter
 - [x] Composite
 - [ ] Facade
 
