@@ -19,7 +19,7 @@ Las contribuciones son bienvenidas y apreciadas.
 
 - [x] Adapter
 - [x] Composite
-- [ ] Facade
+- [x] Facade
 
 ### Generadores
 
