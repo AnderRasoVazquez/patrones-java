@@ -12,7 +12,7 @@ Las contribuciones son bienvenidas y apreciadas.
 ### Comportamiento 
 
 - [x] Observer
-- [ ] State
+- [x] State
 - [x] Strategy
 
 ### Estructurales
