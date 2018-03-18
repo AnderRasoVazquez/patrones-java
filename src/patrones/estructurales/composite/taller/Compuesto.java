@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
 
-public class Compuesto implements Componente{
+public class Compuesto implements Componente {
 
     private Collection<Componente> nComponentes;
     private String nombre;

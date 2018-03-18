@@ -15,11 +15,6 @@ public class Simple implements Componente {
         return precio;
     }
 
-    @Override
-    public void cambiarPrecio(double pPrecio) {
-        precio = pPrecio;
-    }
-
     public String getNombre() {
         return nombre;
     }
