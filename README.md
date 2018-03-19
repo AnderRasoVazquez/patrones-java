@@ -12,6 +12,7 @@ Las contribuciones son bienvenidas y apreciadas.
 ### Comportamiento 
 
 - [x] Observer
+- [x] Iterator
 - [x] State
 - [x] Strategy
 
@@ -23,7 +24,6 @@ Las contribuciones son bienvenidas y apreciadas.
 
 ### Generadores
 
-- [x] Iterator
 - [x] Simple Factory
 - [x] Singleton
 

@@ -1,6 +1,4 @@
-package patrones.generadores.iterator.subcontratar_restaurantes;
-
-import java.util.Iterator;
+package patrones.comportamiento.iterator.subcontratar_restaurantes;
 
 public class Main {
 
