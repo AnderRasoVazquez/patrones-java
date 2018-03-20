@@ -24,7 +24,7 @@ public class Encendido implements IEstado{
 
     @Override
     public void power() {
-        reproductor.setEstado(new Apagado());
+        reproductor.setEstado(new Apagado(reproductor));
     }
 
     @Override
